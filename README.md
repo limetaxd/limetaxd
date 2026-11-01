@@ -1,16 +1,30 @@
-## Hi there 👋
+## Olá, eu sou o Arthur 👋
 
-<!--
-**limetaxd/limetaxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 2º semestre de **Engenharia de Redes de Comunicação** na **Universidade de Brasília (UnB)**.
+Ainda estou explorando as áreas do curso, de redes e telecomunicações a desenvolvimento de software, e aprendendo na prática.
 
-Here are some ideas to get you started:
+- 🎯 Buscando: estágio
+- 📍 Brasília, DF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Projetos acadêmicos
+
+#### 🏥 Triagem PS · em desenvolvimento
+Sistema de triagem de pronto-socorro em linha de comando, com classificação de risco pelo Protocolo de Manchester.
+Meu módulo: uma **tabela hash genérica implementada do zero** que indexa pacientes por CPF, com métricas de colisões e fator de carga.
+Projeto em grupo · Algoritmos e Estruturas de Dados · 2026/2
+
+`C++` `Estruturas de dados` · [Repositório](https://github.com/limetaxd/ProjComp)
+
+---
+
+### 🛠️ Tecnologias
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,linux,git" alt="C++, C, Python, Linux, Git" />
+
+---
+
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lima-38a12141b/)
